@@ -2,6 +2,10 @@
 
 ###
 
+Soy un ingeniero en sistemas informáticos en formación, actualmente en mi quinto año de estudios en la Universidad Nacional de El Salvador. Estoy especializado en tecnologías frontend y backend, incluyendo Angular con la nueva sintaxis versión 17, Spring Boot 3+, y manejo de bases de datos como Oracle y PostgreSQL. También tengo experiencia con Java, JavaScript, TypeScript, SQL y PL/SQL. 
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=osweld&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osweld&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
