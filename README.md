@@ -2,7 +2,7 @@
 
 ###
 
-Soy un ingeniero en sistemas informáticos en formación, actualmente en mi quinto año de estudios en la Universidad Nacional de El Salvador. Estoy especializado en tecnologías frontend y backend, incluyendo Angular 14+, Spring Boot 3+, y manejo de bases de datos como Oracle y PostgreSQL. También tengo experiencia con Java, JavaScript, TypeScript, SQL y PL/SQL. 
+<p align="left">Soy un ingeniero en sistemas informáticos en formación, actualmente en mi quinto año de estudios en la Universidad Nacional de El Salvador. Estoy especializado en tecnologías frontend y backend, incluyendo Angular 14+, Spring Boot 3+, y manejo de bases de datos como Oracle y PostgreSQL. También tengo experiencia con Java, JavaScript, TypeScript, SQL y PL/SQL.</p>
 
 ###
 
@@ -13,7 +13,7 @@ Soy un ingeniero en sistemas informáticos en formación, actualmente en mi quin
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -45,11 +45,5 @@ Soy un ingeniero en sistemas informáticos en formación, actualmente en mi quin
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/osweld/osweld/output/snake.svg" alt="Snake animation" />
 
 ###
