@@ -2,7 +2,7 @@
 
 ###
 
-Soy un ingeniero en sistemas informáticos en formación, actualmente en mi quinto año de estudios en la Universidad Nacional de El Salvador. Estoy especializado en tecnologías frontend y backend, incluyendo Angular con la nueva sintaxis versión 17, Spring Boot 3+, y manejo de bases de datos como Oracle y PostgreSQL. También tengo experiencia con Java, JavaScript, TypeScript, SQL y PL/SQL. 
+Soy un ingeniero en sistemas informáticos en formación, actualmente en mi quinto año de estudios en la Universidad Nacional de El Salvador. Estoy especializado en tecnologías frontend y backend, incluyendo Angular 14+, Spring Boot 3+, y manejo de bases de datos como Oracle y PostgreSQL. También tengo experiencia con Java, JavaScript, TypeScript, SQL y PL/SQL. 
 
 ###
 
