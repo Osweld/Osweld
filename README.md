@@ -19,7 +19,7 @@ Actualmente profundizo en arquitectura limpia, microservicios y buenas práctica
 
 🔗 Echa un vistazo a mi portafolio completo de proyectos en:  
 <p align="center">
-  <a href="https://github.com/Oswel1/portfolio" target="_blank">
+  <a href="https://github.com/Osweld/portfolio" target="_blank">
     <img
       src="https://img.shields.io/badge/📂%20Portafolio-OnlyChat-00BFFF?style=flat-square&labelColor=272B33&logo=read-the-docs"
       alt="Portafolio OnlyChat"
