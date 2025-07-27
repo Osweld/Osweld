@@ -1,4 +1,6 @@
-## 👋 Hi, I'm German Reyes — Full-Stack Developer from El Salvador
+## 👋 Hola, soy German Reyes  
+### Full‑Stack Developer | Angular · Spring Boot · PostgreSQL
+
 
 🎓 Ingeniero en Sistemas Informáticos, egresado de la Universidad Nacional de El Salvador.  
 💻 Apasionado por el desarrollo de software moderno, con especialización en tecnologías **frontend y backend**, especialmente **Angular 14+**, **Spring Boot 3+** y **bases de datos Oracle/PostgreSQL**.
@@ -13,15 +15,25 @@ Actualmente profundizo en arquitectura limpia, microservicios y buenas práctica
 - 🗃️ Bases de datos: PostgreSQL, Oracle, MySQL
 - ☁️ Otros: Docker, Git, GitHub Actions, Linux (WSL2), IntelliJ, VSCode
 
+## 📂 Mi Portafolio
 
+🔗 Echa un vistazo a mi portafolio completo de proyectos en:  
+<p align="center">
+  <a href="https://github.com/Oswel1/portfolio" target="_blank">
+    <img
+      src="https://img.shields.io/badge/📂%20Portafolio-OnlyChat-00BFFF?style=flat-square&labelColor=272B33&logo=read-the-docs"
+      alt="Portafolio OnlyChat"
+    />
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osweld&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=osweld&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osweld&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=osweld&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"  alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=osweld&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"  alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osweld&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"  alt="languages graph"  />
 </div>
 
-###
+## 🔨 Herramientas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
@@ -47,7 +59,7 @@ Actualmente profundizo en arquitectura limpia, microservicios y buenas práctica
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
 </div>
 
-###
+## 📧 Contacto
 
 <div align="center">
   <a href="mailto:germanreyesdeveloper@gmail.com" target="_blank">
@@ -56,16 +68,9 @@ Actualmente profundizo en arquitectura limpia, microservicios y buenas práctica
   <a href="https://www.linkedin.com/in/german-oswaldo-reyes-perdido-41382a148" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/channel/UCg13vSCaRmrsQu7F4Zjd4Mw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://x.com/germanreyesdev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
-  </a>
 </div>
 
-###
 
-<p align="left">¡Muy pronto! 🚀 Estaré subiendo mis proyectos personales para crear un portafolio impresionante. ¡Mantente atento para ver mis últimos trabajos y avances!</p>
 
-###
+
+
