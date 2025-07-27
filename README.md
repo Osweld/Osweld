@@ -1,10 +1,19 @@
-<h2 align="left">Hi 👋! My name is  German Reyes and I'm a Full-stack developer from El Salvador</h2>
+## 👋 Hi, I'm German Reyes — Full-Stack Developer from El Salvador
 
-###
+🎓 Ingeniero en Sistemas Informáticos, egresado de la Universidad Nacional de El Salvador.  
+💻 Apasionado por el desarrollo de software moderno, con especialización en tecnologías **frontend y backend**, especialmente **Angular 14+**, **Spring Boot 3+** y **bases de datos Oracle/PostgreSQL**.
 
-<p align="left">Ingeniero en sistemas informáticos egresado de la Universidad Nacional de El Salvador. Estoy especializado en tecnologías frontend y backend, incluyendo Angular 14+, Spring Boot 3+, y manejo de bases de datos como Oracle y PostgreSQL. También tengo experiencia con Java, JavaScript, TypeScript, SQL y PL/SQL.</p>
+Actualmente profundizo en arquitectura limpia, microservicios y buenas prácticas en desarrollo ágil.
 
-###
+## 🛠️ Tech Stack
+
+- 🧠 Lenguajes: Java, JavaScript, TypeScript, SQL, PL/SQL
+- 🌐 Frontend: Angular, HTML5, CSS3, Tailwind
+- 🖥️ Backend: Spring Boot, REST APIs, JWT, OAuth2
+- 🗃️ Bases de datos: PostgreSQL, Oracle, MySQL
+- ☁️ Otros: Docker, Git, GitHub Actions, Linux (WSL2), IntelliJ, VSCode
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=osweld&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
